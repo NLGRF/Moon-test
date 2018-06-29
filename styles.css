@@ -1,0 +1,19 @@
+body {
+        width: 30rem;
+        margin: 2rem auto;
+        font-family: sans-serif;
+    }
+    nav {
+        margin-bottom: 2rem;
+    }
+    a {
+        color: black;
+        text-decoration: none;
+        margin-right: 1rem;
+        border: solid lightgray 1px;
+        padding: 0.5rem 1rem;
+        border-radius: 0.25rem;
+    }
+    .router-link-active {
+        background-color: #f1f1f1;
+    }
